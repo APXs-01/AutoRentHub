@@ -1,0 +1,22 @@
+{
+  "name": "autorenthub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APXs-01/AutoRentHub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/APXs-01/AutoRentHub/issues"
+  },
+  "homepage": "https://github.com/APXs-01/AutoRentHub#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
